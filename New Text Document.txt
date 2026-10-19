@@ -567,9 +567,9 @@
         "generationTime": "2026-09-15T13:26:00",
         "generatedBy": "dheeraj_narang2007@yahoo.com",
         "uniqueId": "Report_123",
-        "totalTrips": 223,
+        "totalTrips": 111,
         "totalVehicleReports": 1,
-        "totalDistance": 1266.14,
+        "totalDistance": 694.39,
 	"totalEngineHr": 0,
         "fromDate": "2026-08-01T00:00:00.000Z",
         "toDate": "2026-08-31T00:00:00.000Z",
@@ -577,8 +577,8 @@
           "area": "Gulabibagh Sadar Bazar",
           "vehicleNumber": "DL1LS7396",
           "tankerType": "MS_HIRED",
-          "totalDistance": 1266.14,
-          "totalTrips": 223,
+          "totalDistance": 694.39,
+          "totalTrips": 111,
           "vehicleRecalculateCount": 0 // Set to 0 to show "N/A"
         }]
       };
